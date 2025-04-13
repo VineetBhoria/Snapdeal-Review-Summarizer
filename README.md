@@ -25,8 +25,8 @@ This project implements a simple Sentiment Analysis pipeline using Natural Langu
 
   ➡️Jupyter Notebook
 
-Scikit-learn (sklearn)
+  ➡️Scikit-learn (sklearn)
 
-Pandas, NumPy
+  ➡️Pandas, NumPy
 
-Matplotlib & Seaborn (for visualization)
+  ➡️Matplotlib & Seaborn (for visualization)
